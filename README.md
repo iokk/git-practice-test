@@ -2,4 +2,4 @@
 
 This repository is for practicing basic Git commands.
 
-Conflict practice line: base version.
+Conflict practice line: master version.
